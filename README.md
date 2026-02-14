@@ -7,7 +7,7 @@ This repository contains my Task 2 UI/UX design created using Figma.
 - Figma
 
 ## 🎨 Screens Included
-- Onboarding Screen
+- Onboarding Screen 
 - Home Screen
 - Details Screen
 - Booking Flow
